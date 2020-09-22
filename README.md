@@ -15,11 +15,11 @@ Será disponibilizado o ambiente de *dev* da Kuppi para a utilização durante o
 | Uri | Método | Verbo | Descrição
 |---|---|---|---|
 | **/example/products**  | GET | INDEX | Listagem de todos os produtos.
-| **/example/products/:product_id**  | GET | SHOW | Objeto com todos as informações do produtos.
+| **/example/products/:product_id**  | GET | SHOW | Objeto com todos as informações do produto.
 
 ### **Teste de Nível**
 
-Para proceguir Faça um Fork desse projeto para utilizá-lo como base no teste.
+Para prosseguir faça um Fork desse projeto para utilizá-lo como base no teste.
 
 - Implemente uma aplicação que exiba em uma rota, uma listagem de produtos com seus nomes e preços.
 
@@ -36,8 +36,11 @@ O desenvolvimento deverá ser feito em ReactJs. O projeto deve ser entregue em o
 No teste descrito anteriormente é obrigatório o uso de algumas bibliotecas listadas a seguir:
 
 - axios
-- immer
 - styled-component
+
+Os packages são obrigatórios o uso, porém já estão implementados o seu uso, fique vontade para alterar o que achar pertinente. 
+
+- immer
 - react-router-dom
 - history
 - redux
@@ -47,10 +50,8 @@ No teste descrito anteriormente é obrigatório o uso de algumas bibliotecas lis
 
 ### **Extras**
 
-- Se uma rota é repetida diversas vezes em sua aplicação, como seria possível melhorar a arquitetura em casos de manutenção?
-
+- Se uma rota é repetida diversas vezes em sua aplicação, como seria possível melhorar a arquitetura para facilitar em manutençes posteriores?
 - É possível melhorar a performance da solução? Como as melhorias impactam a leitura e manutenção do código?
-
 - De que forma o sistema pode escalar com a arquitetura planejada?
 
 ## **Desafio complementar**
