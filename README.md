@@ -38,7 +38,7 @@ No teste descrito anteriormente é obrigatório o uso de algumas bibliotecas lis
 - axios
 - styled-component
 
-Os packages são obrigatórios o uso, porém já estão implementados o seu uso, fique vontade para alterar o que achar pertinente. 
+Os packages a seguir também são obrigatórios, porém já estão implementados o seu uso, fique vontade para alterar o que achar pertinente. 
 
 - immer
 - react-router-dom
