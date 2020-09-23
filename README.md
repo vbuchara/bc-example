@@ -31,7 +31,7 @@ Levando em consideração que o uso de requisitos e os diferenciais listados na 
 
 O desenvolvimento deverá ser feito em ReactJs. O projeto deve ser entregue em outro repositório.
 
-### **Packages requiridos**
+### **Packages requeridos**
 
 No teste descrito anteriormente é obrigatório o uso de algumas bibliotecas listadas a seguir:
 
