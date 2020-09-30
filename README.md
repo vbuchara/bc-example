@@ -6,39 +6,27 @@ Para podermos proseguir com o processo de avaliação, estamos disponibilizando 
 
 ### **Orientações iniciais**
 
-O teste proposto será bem simples, porém por sermos uma startup, além das habilidades técnicas é muito importante a comunicação e pesquisa por soluções. Tenha isso em mente ao resolvê-lo. Boa sorte!
+O teste proposto será bem simples, porém por sermos uma startup, além das habilidades técnicas é muito importante a comunicação e pesquisa por soluções. Tenha isso em mente ao resolvê-lo. 
+
+O teste é composto por duas partes, é importante **fazer as duas**. Boa sorte!
 
 Será disponibilizado o ambiente de *dev* da Kuppi para a utilização durante o teste.
 
-**url:** https://dev2-api.kuppi.com.br
+**url:** https://dev-api.kuppi.com.br
 
 | Uri | Método | Verbo | Descrição
 |---|---|---|---|
-| **/example/products**  | GET | INDEX | Listagem de todos os produtos.
-| **/example/products/:product_id**  | GET | SHOW | Objeto com todos as informações do produto.
+| **/example/products**  | GET | INDEX | *Array* com todos os produtos.
+| **/example/products/:product_id**  | GET | SHOW | *Object* com todas as informações do produto com o *id* especificado.
 
-### **Teste de Nível**
+#### **Packages requeridos**
 
-Para prosseguir faça um Fork desse projeto para utilizá-lo como base no teste.
-
-- Implemente uma aplicação que exiba em uma rota, uma listagem de produtos com seus nomes e preços.
-
-- Crie também em cada item da listagem, um componente que direcione para outra rota, que servirá para exibir os detalhes desse produto com o restante das informações disponíveis.
-
-- A estilização do projeto deve ser feito em *Styled Component*
-
-Levando em consideração que o uso de requisitos e os diferenciais listados na vaga será considerado um bônus.
-
-O desenvolvimento deverá ser feito em ReactJs. O projeto deve ser entregue em outro repositório.
-
-### **Packages requeridos**
-
-No teste descrito anteriormente é obrigatório o uso de algumas bibliotecas listadas a seguir:
+É obrigatório o uso das bibliotecas listadas a seguir e será levados em consideração na análise do teste.
 
 - axios
 - styled-component
 
-Os packages a seguir também são obrigatórios, porém já estão implementados o seu uso, fique vontade para alterar o que achar pertinente. 
+Esses outros packages a seguir também são obrigatórios, porém já estão implementados a arquitetura de seu uso, fique vontade para incrementar o que achar necessário e pertinente. 
 
 - immer
 - react-router-dom
@@ -48,13 +36,26 @@ Os packages a seguir também são obrigatórios, porém já estão implementados
 - redux-persist
 - redux-saga
 
-### **Extras**
+### **Parte 1 - Teste prático**
+
+Para prosseguir faça um Fork desse projeto para utilizá-lo como base no teste.
+
+- Implemente uma aplicação que exiba em uma rota, uma listagem de produtos com seus nomes e preços.
+
+- Crie também em cada item da listagem, um componente que direcione para outra rota, que servirá para exibir os detalhes desse produto com o restante das informações disponíveis.
+
+- A estilização do projeto deve ser feito em *Styled Component*, a estilização e o layout desenvolvido serão levados em consideração na análise do teste.
+
+Levando em consideração que o uso de requisitos e os diferenciais listados na vaga será considerado um bônus.
+
+O desenvolvimento deverá ser feito em ReactJs. O projeto deve ser entregue em outro repositório.
+
+### **Parte 2 - Teste conceitual**
+
+Responda as perguntas abaixo com suas próprias palavras, mas também fique livre em aplicar algum desses conceitos na primeira parte do teste.
 
 - Se uma rota é repetida diversas vezes em sua aplicação, como seria possível melhorar a arquitetura para facilitar em manutençes posteriores?
 - É possível melhorar a performance da solução? Como as melhorias impactam a leitura e manutenção do código?
 - De que forma o sistema pode escalar com a arquitetura planejada?
-
-## **Desafio complementar**
-
-Considerando as informações de retorno nas rotas da API disponibilizada para o teste, qual seria a sua sugestão para o controller que alimentaria essas rotas? Leve em consideração os conhecimentos de RESTful API.
+- Considerando as informações de retorno nas rotas da API disponibilizada para o teste, qual seria a sua sugestão para o controller que alimentaria essas rotas? Leve em consideração os conhecimentos de RESTful API.
 
