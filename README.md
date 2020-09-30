@@ -8,7 +8,11 @@ Para podermos proseguir com o processo de avaliação, estamos disponibilizando 
 
 O teste proposto será bem simples, porém por sermos uma startup, além das habilidades técnicas é muito importante a comunicação e pesquisa por soluções de problemas. Tenha isso em mente ao resolvê-lo. 
 
-O teste é composto por duas partes, é importante **fazer as duas**. Boa sorte!
+O teste é composto por duas partes, é importante **fazer as duas**. 
+
+O uso de requisitos e os diferenciais listados na vaga será considerado um bônus.
+
+O desenvolvimento deverá ser **feito em ReactJs**. O projeto deve ser entregue em outro repositório.
 
 Será disponibilizado o ambiente de *dev* da Kuppi para a utilização durante o teste.
 
@@ -36,6 +40,8 @@ Esses outros packages a seguir também são obrigatórios, porém já estão imp
 - redux-persist
 - redux-saga
 
+Boa sorte!
+
 ### **Parte 1 - Teste prático**
 
 Para prosseguir faça um Fork desse projeto para utilizá-lo como base no teste.
@@ -45,10 +51,6 @@ Para prosseguir faça um Fork desse projeto para utilizá-lo como base no teste.
 - Crie também em cada item da listagem, um componente que direcione para outra rota, que servirá para exibir os detalhes desse produto com o restante das informações disponíveis.
 
 - A estilização do projeto deve ser feito em *Styled Component* e ela juntamente com o layout desenvolvido serão levados em consideração na análise do teste.
-
-Levando em consideração que o uso de requisitos e os diferenciais listados na vaga será considerado um bônus.
-
-O desenvolvimento deverá ser feito em ReactJs. O projeto deve ser entregue em outro repositório.
 
 ### **Parte 2 - Teste conceitual**
 
