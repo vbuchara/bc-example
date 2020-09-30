@@ -2,7 +2,7 @@
 
 **Obrigado por se candidatar para a vaga de Dev Junior na Kuppi.**
 
-Para podermos proseguir com o processo de avaliação, estamos disponibilizando um teste dividido em duas partes(Teste prático e Teste conceitual). Você terá um dia para desenvolvê-lo. Mas se surgir algum imprevisto ou problema é só nos avisar.
+Para podermos proseguir com o processo de avaliação, estamos disponibilizando um teste dividido em duas partes (Teste prático e Teste conceitual). Você terá um dia para desenvolvê-lo. Mas se surgir algum imprevisto ou problema é só nos avisar.
 
 ### **Orientações iniciais**
 
