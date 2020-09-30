@@ -6,7 +6,7 @@ Para podermos proseguir com o processo de avaliação, estamos disponibilizando 
 
 ### **Orientações iniciais**
 
-O teste proposto será bem simples, porém por sermos uma startup, além das habilidades técnicas é muito importante a comunicação e pesquisa por soluções. Tenha isso em mente ao resolvê-lo. 
+O teste proposto será bem simples, porém por sermos uma startup, além das habilidades técnicas é muito importante a comunicação e pesquisa por soluções de problemas. Tenha isso em mente ao resolvê-lo. 
 
 O teste é composto por duas partes, é importante **fazer as duas**. Boa sorte!
 
