@@ -28,7 +28,7 @@ Será disponibilizado o ambiente de *dev* da Kuppi para a utilização durante o
 É obrigatório o uso das bibliotecas listadas a seguir e será levados em consideração na análise do teste.
 
 - axios
-- styled-component
+- styled-components
 
 Esses outros packages a seguir também são obrigatórios, porém já estão implementados a arquitetura de seu uso, fique vontade para incrementar o que achar necessário e pertinente. 
 
