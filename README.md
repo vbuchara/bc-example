@@ -2,7 +2,7 @@
 
 **Obrigado por se candidatar para a vaga de Dev Junior na Kuppi.**
 
-Para podermos proseguir com o processo de avaliação, estamos disponibilizando um teste dividido em duas partes (Teste prático e Teste conceitual). Você terá um dia para desenvolvê-lo. Mas se surgir algum imprevisto ou problema é só nos avisar.
+Para podermos proseguir com o processo de avaliação, estamos disponibilizando um teste dividido dois exercícios (Exercício prático e Exercício conceitual). Você terá um dia para desenvolvê-lo. Mas se surgir algum imprevisto ou problema é só nos avisar.
 
 ### **Orientações iniciais**
 
@@ -42,7 +42,7 @@ Esses outros packages a seguir também são obrigatórios, porém já estão imp
 
 Boa sorte!
 
-### **Parte 1 - Teste prático**
+### **Exercício 1 - Teste prático**
 
 Para prosseguir faça um Fork desse projeto para utilizá-lo como base no teste.
 
@@ -52,7 +52,7 @@ Para prosseguir faça um Fork desse projeto para utilizá-lo como base no teste.
 
 - A estilização do projeto deve ser feito em *Styled Component* e ela juntamente com o layout desenvolvido serão levados em consideração na análise do teste.
 
-### **Parte 2 - Teste conceitual**
+### **Exercício 2 - Teste conceitual**
 
 Responda as perguntas abaixo com suas próprias palavras, mas também fique livre em aplicar algum desses conceitos na primeira parte do teste.
 
