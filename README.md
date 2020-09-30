@@ -44,7 +44,7 @@ Para prosseguir faça um Fork desse projeto para utilizá-lo como base no teste.
 
 - Crie também em cada item da listagem, um componente que direcione para outra rota, que servirá para exibir os detalhes desse produto com o restante das informações disponíveis.
 
-- A estilização do projeto deve ser feito em *Styled Component*, a estilização e o layout desenvolvido serão levados em consideração na análise do teste.
+- A estilização do projeto deve ser feito em *Styled Component* e ela juntamente com o layout desenvolvido serão levados em consideração na análise do teste.
 
 Levando em consideração que o uso de requisitos e os diferenciais listados na vaga será considerado um bônus.
 
