@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-props-no-spreading */
 import React from 'react';
 
 import PropTypes from 'prop-types';
@@ -8,14 +9,7 @@ export default function RouteWrapper({
   component: Component,
   ...rest
 }) {
-  return (
-    <Route
-      {...rest}
-      render={(props) => (
-          <Component {...props} />
-      )}
-    />
-  );
+  return <Route {...rest} render={(props) => <Component {...props} />} />;
 }
 
 RouteWrapper.propTypes = {

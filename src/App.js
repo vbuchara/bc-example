@@ -12,16 +12,15 @@ import Routes from './routes';
 // Precisa vir depois da importação do reactotron
 import { store, persistor } from './store';
 
-
 function App() {
   return (
-        <Provider store={store}>
-          <PersistGate persistor={persistor}>
-            <Router history={history}>
-              <Routes />
-            </Router>
-          </PersistGate>
-        </Provider>
+    <Provider store={store}>
+      <PersistGate persistor={persistor}>
+        <Router history={history}>
+          <Routes />
+        </Router>
+      </PersistGate>
+    </Provider>
   );
 }
 
